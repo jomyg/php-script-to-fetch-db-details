@@ -1,6 +1,7 @@
 # php-script-to-fetch-db-details
 
 
+
 ```
 <?php
 $servername = "localhost";
